@@ -9,7 +9,12 @@ class Header extends Component {
         return(
             <section className="Header">
                 <div className="container">
-                    <h1 className="logo">theTuber</h1>
+
+                    <hgroup  className="logo">
+                        <h1>theTuber</h1>
+
+                    </hgroup>
+
                 </div>
 
 
